@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtonDesktop", "ProtonDesktop.csproj", "{F641E696-B898-C7B5-A8A3-96B3A7487B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F641E696-B898-C7B5-A8A3-96B3A7487B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F641E696-B898-C7B5-A8A3-96B3A7487B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F641E696-B898-C7B5-A8A3-96B3A7487B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F641E696-B898-C7B5-A8A3-96B3A7487B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF5F8E1-9D7C-49EC-A45C-F2619538441F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+2025/01/29-22:26:55.590 89a8 Reusing MANIFEST C:\Users\Dany\Desktop\ProtonDesktop\bin\Debug\net9.0-windows\WebView2UserData\EBWebView\Default\IndexedDB\https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/29-22:26:55.591 89a8 Recovering log #200
+2025/01/29-22:26:55.591 89a8 Reusing old log C:\Users\Dany\Desktop\ProtonDesktop\bin\Debug\net9.0-windows\WebView2UserData\EBWebView\Default\IndexedDB\https_mail.proton.me_0.indexeddb.leveldb/000200.log 
+2025/01/29-22:26:55.591 89a8 Delete type=2 #199
+2025/01/29-22:26:56.651 7a10 Level-0 table #205: started
+2025/01/29-22:26:56.663 7a10 Level-0 table #205: 730 bytes OK
+2025/01/29-22:26:56.680 7a10 Delete type=0 #200
+2025/01/29-22:26:56.692 7a10 Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at '\x00I\x00\x00\x05' @ 2160 : 1
+2025/01/29-22:26:56.699 7a10 Compacting 1@0 + 1@1 files
+2025/01/29-22:26:56.721 7a10 Generated table #206@0: 103 keys, 1603 bytes
+2025/01/29-22:26:56.721 7a10 Compacted 1@0 + 1@1 files => 1603 bytes
+2025/01/29-22:26:56.732 7a10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/29-22:26:56.733 7a10 Delete type=2 #205
+2025/01/29-22:26:56.766 89a8 Manual compaction at level-0 from '\x00I\x00\x00\x05' @ 2160 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/29-22:26:56.770 7a10 Level-0 table #208: started
+2025/01/29-22:26:56.787 7a10 Level-0 table #208: 497 bytes OK
+2025/01/29-22:26:56.796 7a10 Delete type=2 #202
+2025/01/29-22:26:56.797 7a10 Delete type=0 #204
+2025/01/29-22:26:56.815 89a8 Manual compaction at level-0 from '\x00J\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00K\x00\x00\x00' @ 0 : 0; will stop at '\x00J\x00\x00\x05' @ 2176 : 1
+2025/01/29-22:26:56.815 89a8 Compacting 1@0 + 1@1 files
+2025/01/29-22:26:56.826 89a8 Generated table #209@0: 103 keys, 1601 bytes
+2025/01/29-22:26:56.826 89a8 Compacted 1@0 + 1@1 files => 1601 bytes
+2025/01/29-22:26:56.832 89a8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/29-22:26:56.833 89a8 Delete type=2 #208
+2025/01/29-22:26:56.843 89a8 Manual compaction at level-0 from '\x00J\x00\x00\x05' @ 2176 : 1 .. '\x00K\x00\x00\x00' @ 0 : 0; will stop at (end)

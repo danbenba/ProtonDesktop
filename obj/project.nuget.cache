@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "siW/4eX8DGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dany\\Desktop\\ProtonDesktop\\ProtonDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dany\\.nuget\\packages\\microsoft.web.webview2\\1.0.1054.31\\microsoft.web.webview2.1.0.1054.31.nupkg.sha512"
+  ],
+  "logs": []
+}

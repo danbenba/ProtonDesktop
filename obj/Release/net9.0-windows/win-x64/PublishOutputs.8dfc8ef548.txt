@@ -1,0 +1,4 @@
+C:\Users\Dany\Desktop\ProtonDesktop\publish\Single_file\ProtonDesktop.pdb
+C:\Users\Dany\Desktop\ProtonDesktop\publish\Single_file\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Dany\Desktop\ProtonDesktop\publish\Single_file\WebView2Loader.dll
+C:\Users\Dany\Desktop\ProtonDesktop\publish\Single_file\ProtonDesktop.exe
